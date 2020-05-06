@@ -1,0 +1,350 @@
+.first{
+    background-color:rgba(68, 71, 248, 0.945);
+    padding: 3px 0px 3px 0px;
+
+}
+.mil{
+    text-align:center ;
+    color: white;
+    display: inline;
+    margin-right: 80px;
+    margin-left:120px ;
+    font-size: 20px;
+}
+li{
+    display: inline;    
+    color: honeydew;
+    margin-left: 5px;
+
+}
+ul{
+    margin-left: 150px;
+}
+.whtsap{
+    background-color: green;
+    border-radius: 2px;
+}
+.tube{
+    background-color: red;
+    border-radius: 6px;
+}
+button{
+    padding: 4px 4px;
+    color: rgba(8, 100, 8, 0.911);
+}
+.second{
+    padding: 5px 0px 5px 0px;
+    background-color:white;
+
+}
+.logo{
+    width: 200px;
+    margin-left: 180px;
+    display: inline;
+}
+.three{
+    display: inline;
+    position: absolute;
+}
+li>a{
+    margin: 2px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.active{ 
+    background-color: rgba(68, 71, 248, 0.945);
+    padding: 9px 6px 9px 6px;
+    border-radius: 30px;
+}
+.ho:hover{
+    background-color: rgba(68, 71, 248, 0.945);
+    padding: 9px 6px 9px 6px;
+    border-radius: 30px;
+
+}
+#outerbox{
+    width: 1500px;
+    overflow: hidden;    
+}
+#sliderbox{
+    position: relative;
+    width: 7500px;
+    animation-name: hassan;
+    animation-duration: 30s;
+    animation-iteration-count: infinite ;
+}
+#sliderbox img{
+    float: left;
+}
+@keyframes hassan{
+    0%{
+        left: 0px;
+    }
+    16%{
+        left: 0px;
+    }
+    20%{
+        left: -1500px;
+    }
+    36%{
+        left: -1500px;
+    }
+    40%{
+        left: -3000px ;
+    }
+    56%{
+        left: -3000px;
+    }
+    60%{
+        left: -4500px;
+    }
+    76%{
+        left: -4500px;
+    }
+    80%{
+        left: -6000px;
+    }
+    96%{
+        left: -6000px;
+    }
+    100%{
+        left: -7500px;
+    }
+} 
+
+.marq{
+    background-color : white;
+margin-right: 100px;
+margin-left: 100px;
+color: white;
+font-size: 25px;
+padding-top: 5px;
+}
+.more{
+    color: rgba(17, 250, 36, 1);
+}
+.date{
+    color: rgba(244, 247, 64, 1);
+}
+.intro{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 40px;
+    background-color: rgba(247, 243, 243, 0.932);
+    padding-bottom: 60px;
+}
+#int{
+    color: blue;
+}
+#duc{
+    color: rgb(14, 168, 14);
+}
+.int{
+    padding-bottom: 10px;
+}
+.line{
+    padding-bottom: 20px;
+}
+.par{
+    color: black;
+    width: 1000px;
+    text-align: justify;
+    margin-bottom: 30px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.para{
+    color: #4b4444f5;
+    line-height: 1.5em;
+}
+.count{
+    background-color: rgba(68, 71, 248, 0.945);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+  table{
+    margin: 10px auto;
+    width: 1350px;
+    color: white;
+
+
+}
+tr,td{
+    padding: 10px;
+    text-align: center;
+    font-size:22px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sp{
+color: rgba(17, 250, 36, 1);
+}
+.what{
+    background-color: rgba(247, 243, 243, 0.932);
+    padding-top: 70px;
+    font-size: 40px;
+    padding-bottom: 60px;
+
+}
+#w{
+    color: blue;
+}
+#d{
+    color: rgb(14, 168, 14);
+
+}
+.ww{
+    padding-bottom: 10px;
+}
+.www{
+    padding-bottom: 20px;
+}
+.d1{
+    background-color: rgb(248, 248, 246);
+    width: 350px;
+    text-align: center;
+    margin-left: 30px;
+    display: inline-block;
+    margin-bottom: 30px;
+    text-shadow: 3px 3px 3px grey;
+    box-shadow: 7px 7px 2px hsl(0, 3%, 71%);
+}
+#sad{
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+#p{
+    font-size:20px;
+}
+#main{
+    background-color: white;
+    margin-left: 190px;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 100px;
+}
+
+#miss{
+    margin-left: 0px;
+    width: 650px;
+display:inline-block ;
+}
+#mi{
+    color: blue;
+    font-size: 30px;
+    padding-bottom: 70px;
+    margin-left: 20px;
+}
+#hep{
+    background-color: rgba(247, 243, 243, 0.932);
+    margin-left: 20px;
+    width: 300px;
+    height: 60px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#hepa{
+    display: inline-block;
+    margin-left: 40px;
+    padding-top: 10px;
+    color: blue;
+    font-size: 20px;
+
+}
+#he{
+    margin-left: 15px;
+    padding-top: 10px;
+    display: inline-block;
+}
+{
+    margin-le
+    width: 
+
+}
+#eve{
+width: 300px;
+padding-left: 80px;
+display: inline-block;
+
+}
+#even{color: blue;
+    font-size: 30px;
+
+}
+}
+#upc{
+    line-height: 1em;
+    padding-left: 5px;
+}
+#upperslide{
+    height: 200px;
+    line-height: 1.5em;
+}
+#gal{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#imadiv{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#i{
+    color: blue;
+}
+#g{
+    color: rgb(14, 168, 14);
+}
+#pic{
+    padding-top: 30px;
+    padding-bottom: 200px;
+}
+.mainfooter{
+    background-color: rgb(28, 28, 29);
+    height: 100%;
+    width: 100%;
+    float: left;
+    padding-bottom: 80px;
+}
+.sec1{
+    width: 30%;
+    color: white;
+    line-height: 2em;
+    margin-left: 150px ;
+    padding-top: 70px;
+    float: left;
+    font-size: 15px;
+}
+#earth{
+    padding-left: 20px;
+}
+    
+.sec2{width: 30%;
+    color: white;
+    line-height: 2em;
+    margin-left: 5px ;
+    padding-top:40px;
+    float: left;
+    text-decoration: underline rgb(5, 211, 5);
+    font-size: 20px;
+
+}
+.sec3{
+    width: 20%;
+    color: white;
+    line-height: 2em;
+    margin-left: 10px ;
+    padding-top: 40px;
+    float: left;
+    font-size: 20px;
+}
+
+.copy{
+    background-color:rgba(68, 71, 248, 0.945);
+    color: white;
+    font-size: 15px;
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
